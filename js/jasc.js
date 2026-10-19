@@ -8,21 +8,10 @@ async function buscarPokemon(){
     document.getElementById("nome").textContent = pokemon.name;
     document.getElementById("imagem").src = 
     pokemon.sprites.front_default;
+  
 }
 
-    if (buscarPokemon == true) {
-        <div class="container text-center">
-  <div class="row">
-    <div class="">
-      Column
-    </div>
-    <div class="">
-      Column
-    </div>
-    <div class="">
-      Column
-    </div>
-  </div>
-</div>
-        
-    }
+
+  
+  
+  
